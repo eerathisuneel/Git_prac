@@ -1,0 +1,2 @@
+#Testers
+1.execute smoke test on cloud 
