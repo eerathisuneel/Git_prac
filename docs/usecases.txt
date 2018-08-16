@@ -1,0 +1,4 @@
+1.deploy tyo clode to tomcat
+2.use any config
+3.need some database
+4.do more prac
