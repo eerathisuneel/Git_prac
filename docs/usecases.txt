@@ -1,7 +1,8 @@
 
 #Testers
 1.execute smoke test on cloud 
-
+2.execute selinium automated test.
+3. Add them to CI
 #Devops
 1.deploy tyo clode to tomcat
 2.use any config
